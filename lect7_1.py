@@ -144,11 +144,3 @@ with open("new.txt", "r") as f :
     #     res = f.readline()
     #     print(res)
 """
-
-
-
-
-
-
-
-
